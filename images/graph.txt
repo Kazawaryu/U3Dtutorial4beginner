@@ -1,0 +1,67 @@
+---
+markmap:
+  colorFreezeLevel: 3
+---
+
+# learning plan
+
+## Coordinate
+
+- transform
+  - position
+  - translate
+  - rotate
+- anchor point
+- vector2, vector3
+
+## GameObject
+
+- class
+  - create
+  - clone 
+  - destory
+- component
+- prefab
+
+## Lifecycle
+
+- lifecycle function
+  - significance
+  - execution order
+- game lifecyle
+
+## Control 
+
+- input system
+- UI control
+  - canvas
+  - UGUI
+  - OnGUI() (advance)
+- speed and force
+- camera
+
+## Art effect
+
+- model
+- animation
+  - state machine
+  - keyframe (advance)
+- material
+- render (advance)
+- blender (advance)
+  - bones
+  - map
+
+## C#
+
+- game mannager
+- OO
+- unity class
+  - unity.time
+  - unity.mathf
+  - unity.random
+  - unity.application
+- coroutine (advance)
+- multi-thread (advance)
+- socket (advance)
+- Serialization and deserialization (advance)
